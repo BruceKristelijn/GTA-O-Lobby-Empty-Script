@@ -1,0 +1,11 @@
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.exe
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.deps.json
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.runtimeconfig.json
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.runtimeconfig.dev.json
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.dll
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\bin\Debug\netcoreapp3.1\GTAV Pauser.pdb
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\obj\Debug\netcoreapp3.1\GTAV Pauser.csprojAssemblyReference.cache
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\obj\Debug\netcoreapp3.1\GTAV Pauser.AssemblyInfoInputs.cache
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\obj\Debug\netcoreapp3.1\GTAV Pauser.AssemblyInfo.cs
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\obj\Debug\netcoreapp3.1\GTAV Pauser.dll
+C:\Users\Bruce kristelijn\Documents\- C# Projects\GTAV Pauser\obj\Debug\netcoreapp3.1\GTAV Pauser.pdb
